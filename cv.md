@@ -5,7 +5,6 @@
  * Phone: +375 (33) 6053360
  ---
 ## Summary:
-
   There is no hesitation in my choice. IT sphere is future of life and I bet on it.
 ---
 ## Skils:
@@ -27,8 +26,8 @@ console.log(sum);
 ## Education:
  Belarusian State University of Physical Culture.
  Online learning:
- * https://itproger.com
- * https://learn.javascript.ru       
+* https://itproger.com
+* https://learn.javascript.ru       
 ---
 ## English:
  Elementary (A1/A2).
