@@ -30,4 +30,4 @@ Online learning:
 * https://learn.javascript.ru       
 ---
 ## English:
-Elementary (A1/A2).
+Elementary+ (A1/A2).
