@@ -1,0 +1,87 @@
+body {
+  height: 900px;
+  background-image: url("img/backgr.jpg");
+  color: rgb(0, 229, 255);
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+
+div.block {
+  background: rgba(0, 0, 0, 0.7);
+  height: 28%;
+  width: 25%;
+  border-radius: 0px 200px 200px 0px;
+  text-align: center;
+
+}
+
+#one {
+  position: absolute;
+  top: 140px;
+  left: 40px;
+}
+
+#two {
+  position: absolute;
+  top: 140px;
+  right: 40px;
+  border-radius: 200px 0px 0px 200px;
+}
+
+#three {
+  position: absolute;
+  top: 440px;
+  left: 40px;
+}
+
+#four {
+  position: absolute;
+  top: 440px;
+  right: 40px;
+  border-radius: 200px 0px 0px 200px;
+}
+
+#five {
+  position: absolute;
+  top: 440px;
+  right: 560px;
+  border-radius: 100%;
+}
+
+#six {
+  height: 20%;
+  position: absolute;
+  top: 700px;
+  right: 565px;
+  border-radius: 100%;
+}
+
+img {
+  width: 280px;
+  height: 320px;
+}
+
+
+ul,
+ol {
+  text-align: left;
+}
+
+.photo {
+  max-height: 300px;
+  background-size: cover;
+  overflow: hidden;
+  position: absolute;
+  right: 620px;
+  border: 2px solid white;
+  border-radius: 100%;
+}
+
+.code {
+  text-align: left;
+}
